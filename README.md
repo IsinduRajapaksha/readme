@@ -6,6 +6,12 @@
 
 ---
 
+## 📊 GitHub Stats
+
+![GitHub Stats](./0769efdb-1a60-48f1-92e8-60d8559d22b7.png)
+
+---
+
 ## 🔧 Skills & Technologies
 
 - **Languages**: C, C#, Java, JavaScript, CSS  
@@ -17,19 +23,19 @@
 
 ## 🚀 Projects
 
-### 🔹 [Live Bus Location Tracking Application](#)
+### 🔹 Live Bus Location Tracking Application
 A real-time tracking system for buses to help passengers view live locations and plan ahead.
 
-### 🔹 [Blood Donation System](#)
+### 🔹 Blood Donation System
 A platform that connects donors and recipients efficiently and securely.
 
-### 🔹 [E-Commerce Platform](#)
+### 🔹 E-Commerce Platform
 An online store built with modern front-end tools, including user login, cart, and checkout system.
 
-### 🔹 [2D Ninja Platformer Game](#)
+### 🔹 2D Ninja Platformer Game
 A Unity-based 2D fighting game with combo attacks, responsive controls, and custom ninja characters.
 
-### 🔹 [3D Animated E-Commerce Website](#)
+### 🔹 3D Animated E-Commerce Website
 An innovative shopping experience that uses 3D animations and product interactions.
 
 ---
@@ -43,4 +49,3 @@ An innovative shopping experience that uses 3D animations and product interactio
 ---
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
